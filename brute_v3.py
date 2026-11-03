@@ -4,7 +4,7 @@ import time
 import random
 
 # 目标网址
-url = "http://192.168.58.129/pikachu-master/vul/burteforce/bf_form.php"
+url = ""
 
 # 伪装请求头
 headers = {
