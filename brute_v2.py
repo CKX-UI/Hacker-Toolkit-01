@@ -4,7 +4,7 @@ import requests
 import concurrent.futures
 
 # 1. 目标网址 
-url = "http://192.168.58.129/pikachu-master/vul/burteforce/bf_form.php"
+url = ""
 
 # 2. 伪装请求头 (真实网站一定会查 User-Agent，不伪装会被当脚本拦截)
 headers = {
